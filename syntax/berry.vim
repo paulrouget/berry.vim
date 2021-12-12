@@ -89,7 +89,7 @@ hi def link berryBuiltinFunction       Function
 hi def link berryOperator              Operator
 hi def link berryBoolean               Boolean
 hi def link berryKeyword               Keyword
-hi def link berryFuncName              Keyword
+hi def link berryFuncName              Function
 hi def link berryCommentLine           Comment
 hi def link berryCommentBlockNest      Comment
 
